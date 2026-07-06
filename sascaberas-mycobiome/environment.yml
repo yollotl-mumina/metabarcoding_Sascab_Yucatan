@@ -1,0 +1,29 @@
+# =============================================================================
+# environment.yml — herramientas de preprocesamiento y QIIME 2
+# Crear el entorno:   conda env create -f environment.yml
+# Activarlo:          conda activate sascaberas-qc
+#
+# NOTA sobre QIIME 2:
+# La distribución "amplicon-2023.9" usada en este estudio se instala mejor con su
+# propio archivo oficial (no desde este yml), por ejemplo:
+#   conda env create -n qiime2-amplicon-2023.9 \
+#     --file https://data.qiime2.org/distro/amplicon/qiime2-amplicon-2023.9-py38-linux-conda.yml
+# El plugin q2-itsxpress puede añadirse con:  pip install q2-itsxpress
+# Este environment.yml cubre las herramientas de control de calidad y recorte
+# (FastQC, MultiQC, Cutadapt) que se ejecutan antes de importar a QIIME 2.
+# =============================================================================
+name: sascaberas-qc
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.8
+  - fastqc=0.12.1
+  - multiqc=1.21
+  - cutadapt=4.6
+  - itsxpress=2.0.0
+  - biom-format
+  - pip
+  - pip:
+      - q2-itsxpress

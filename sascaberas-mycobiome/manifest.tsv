@@ -1,0 +1,9 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+KarstCh1	/home/claude/sascaberas-mycobiome/raw_reads/F_KarstCh1_S51_1_fastq.gz	/home/claude/sascaberas-mycobiome/raw_reads/F_KarstCh1_S51_2_fastq.gz
+KarstCh2	/home/claude/sascaberas-mycobiome/raw_reads/F_KarstCh2_S63_1_fastq.gz	/home/claude/sascaberas-mycobiome/raw_reads/F_KarstCh2_S63_2_fastq.gz
+KarstCh3	/home/claude/sascaberas-mycobiome/raw_reads/F_KarstCh3_S75_1_fastq.gz	/home/claude/sascaberas-mycobiome/raw_reads/F_KarstCh3_S75_2_fastq.gz
+KarstCh4	/home/claude/sascaberas-mycobiome/raw_reads/F_KarstCh4_S87_1_fastq.gz	/home/claude/sascaberas-mycobiome/raw_reads/F_KarstCh4_S87_2_fastq.gz
+KarstCh5	/home/claude/sascaberas-mycobiome/raw_reads/F_KarstCh5_S4_1_fastq.gz	/home/claude/sascaberas-mycobiome/raw_reads/F_KarstCh5_S4_2_fastq.gz
+KarstCh6	/home/claude/sascaberas-mycobiome/raw_reads/F_KarstCh6_S16_1_fastq.gz	/home/claude/sascaberas-mycobiome/raw_reads/F_KarstCh6_S16_2_fastq.gz
+KarstCh7	/home/claude/sascaberas-mycobiome/raw_reads/F_KarstCh7_S28_1_fastq.gz	/home/claude/sascaberas-mycobiome/raw_reads/F_KarstCh7_S28_2_fastq.gz
+KarstCh8	/home/claude/sascaberas-mycobiome/raw_reads/F_KarstCh8_S40_1_fastq.gz	/home/claude/sascaberas-mycobiome/raw_reads/F_KarstCh8_S40_2_fastq.gz

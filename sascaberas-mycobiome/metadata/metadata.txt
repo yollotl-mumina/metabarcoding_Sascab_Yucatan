@@ -1,0 +1,10 @@
+sample-id	source	variety	coloration
+#Sampleid	Categorical	Categorical
+KarstCh1	rhizosphere	white	white
+KarstCh2	sascab	color	orange
+KarstCh3	sascab	color	green
+KarstCh4	sascab	color	red
+KarstCh5	sascab	color	beige
+KarstCh6	sascab	white	
+KarstCh7	rhizosphere	white	white
+KarstCh8	sascab	white	white

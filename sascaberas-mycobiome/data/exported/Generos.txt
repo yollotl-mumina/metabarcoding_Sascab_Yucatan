@@ -1,0 +1,529 @@
+Sample,variety,Genus,Abundance
+KarstCh1,white,< 1%,19.592030360531307
+KarstCh1,white,Acremonium,0.2846299810246679
+KarstCh1,white,Arthrocladium,0
+KarstCh1,white,Aspergillus,0.2846299810246679
+KarstCh1,white,Beauveria,0.23719165085388993
+KarstCh1,white,Bjerkandera,0
+KarstCh1,white,Boothiomyces,0.3795066413662239
+KarstCh1,white,Cadophora,0.6641366223908919
+KarstCh1,white,Cerrena,0
+KarstCh1,white,Chaetomium,0.9013282732447818
+KarstCh1,white,Cladosporium,1.8500948766603416
+KarstCh1,white,Clavaria,0.6641366223908919
+KarstCh1,white,Clavulina,4.838709677419355
+KarstCh1,white,Conlarium,0.33206831119544594
+KarstCh1,white,Cylindrium,1.8500948766603416
+KarstCh1,white,Delicatula,0
+KarstCh1,white,Funalia,0
+KarstCh1,white,Fusarium,2.4667931688804554
+KarstCh1,white,Hygrocybe,0.33206831119544594
+KarstCh1,white,Inocybe,2.0398481973434532
+KarstCh1,white,Lactifluus,0
+KarstCh1,white,Lentinus,0
+KarstCh1,white,Leotia,0.8064516129032258
+KarstCh1,white,Malbranchea,0
+KarstCh1,white,Metarhizium,1.0436432637571158
+KarstCh1,white,Mortierella,3.652751423149905
+KarstCh1,white,Mycena,0.09487666034155598
+KarstCh1,white,Nigrospora,0.5218216318785579
+KarstCh1,white,Penicillium,0.6166982922201139
+KarstCh1,white,Plectosphaerella,18.16888045540797
+KarstCh1,white,Polyscytalum,0.9013282732447818
+KarstCh1,white,Pseudoveronaea,0
+KarstCh1,white,Russula,2.6091081593927896
+KarstCh1,white,Sarcinomyces,0
+KarstCh1,white,Sebacina,0
+KarstCh1,white,Seychellomyces,0.6166982922201139
+KarstCh1,white,Sphaceloma,0
+KarstCh1,white,Sphaerosporella,0.18975332068311196
+KarstCh1,white,Trechispora,0
+KarstCh1,white,Trichoderma,0.8064516129032258
+KarstCh1,white,Trichoglossum,0
+KarstCh1,white,Tuber,0.4269449715370019
+KarstCh1,white,Unclassified Agaricaceae,0.4269449715370019
+KarstCh1,white,Unclassified Agaricales,0.5692599620493358
+KarstCh1,white,Unclassified Agaricomycetes,1.1859582542694498
+KarstCh1,white,Unclassified Ascomycota,0.8538899430740038
+KarstCh1,white,Unclassified Basidiomycota,6.878557874762809
+KarstCh1,white,Unclassified Capnodiales,0
+KarstCh1,white,Unclassified Chaetothyriales,1.0910815939278937
+KarstCh1,white,Unclassified Cordycipitaceae,0
+KarstCh1,white,Unclassified Eurotiales,0
+KarstCh1,white,Unclassified Helotiales,0.6166982922201139
+KarstCh1,white,Unclassified Hypocreales,1.1859582542694498
+KarstCh1,white,Unclassified Hysteriaceae,0
+KarstCh1,white,Unclassified Inocybaceae,1.7077798861480076
+KarstCh1,white,Unclassified Leotiomycetes,0.14231499051233396
+KarstCh1,white,Unclassified Microascaceae,0
+KarstCh1,white,Unclassified Mortierellaceae,1.7077798861480076
+KarstCh1,white,Unclassified Nectriaceae,13.045540796963946
+KarstCh1,white,Unclassified Phanerochaetaceae,0
+KarstCh1,white,Unclassified Pleosporales,0
+KarstCh1,white,Unclassified Russulaceae,0.23719165085388993
+KarstCh1,white,Unclassified Saccharomycetales,0
+KarstCh1,white,Unclassified Sordariomycetes,2.0398481973434532
+KarstCh1,white,Unclassified Teloschistaceae,0
+KarstCh1,white,Unclassified Xylariaceae,1.1385199240986716
+KarstCh2,color,< 1%,7.442215854823305
+KarstCh2,color,Acremonium,0
+KarstCh2,color,Arthrocladium,4.974212034383955
+KarstCh2,color,Aspergillus,7.159503342884432
+KarstCh2,color,Beauveria,0.4813753581661891
+KarstCh2,color,Bjerkandera,0
+KarstCh2,color,Boothiomyces,0
+KarstCh2,color,Cadophora,0.09169054441260745
+KarstCh2,color,Cerrena,0
+KarstCh2,color,Chaetomium,2.9914040114613183
+KarstCh2,color,Cladosporium,1.688634192932187
+KarstCh2,color,Clavaria,0.06876790830945559
+KarstCh2,color,Clavulina,0.3858643744030563
+KarstCh2,color,Conlarium,0
+KarstCh2,color,Cylindrium,0.1069723018147087
+KarstCh2,color,Delicatula,0.011461318051575933
+KarstCh2,color,Funalia,0
+KarstCh2,color,Fusarium,62.31136580706781
+KarstCh2,color,Hygrocybe,0.034383954154727794
+KarstCh2,color,Inocybe,0.3209169054441261
+KarstCh2,color,Lactifluus,0
+KarstCh2,color,Lentinus,0
+KarstCh2,color,Leotia,0.10315186246418338
+KarstCh2,color,Malbranchea,1.3104106972301814
+KarstCh2,color,Metarhizium,0.11843361986628462
+KarstCh2,color,Mortierella,0.664756446991404
+KarstCh2,color,Mycena,0.022922636103151865
+KarstCh2,color,Nigrospora,0
+KarstCh2,color,Penicillium,0.332378223495702
+KarstCh2,color,Plectosphaerella,1.402101241642789
+KarstCh2,color,Polyscytalum,0.1069723018147087
+KarstCh2,color,Pseudoveronaea,0.022922636103151865
+KarstCh2,color,Russula,0.3209169054441261
+KarstCh2,color,Sarcinomyces,0
+KarstCh2,color,Sebacina,0
+KarstCh2,color,Seychellomyces,0.15281757402101243
+KarstCh2,color,Sphaceloma,0
+KarstCh2,color,Sphaerosporella,0
+KarstCh2,color,Trechispora,0.1069723018147087
+KarstCh2,color,Trichoderma,0.04584527220630373
+KarstCh2,color,Trichoglossum,0.011461318051575933
+KarstCh2,color,Tuber,0.10315186246418338
+KarstCh2,color,Unclassified Agaricaceae,0
+KarstCh2,color,Unclassified Agaricales,0.19102196752626552
+KarstCh2,color,Unclassified Agaricomycetes,0.13753581661891118
+KarstCh2,color,Unclassified Ascomycota,0.09933142311365807
+KarstCh2,color,Unclassified Basidiomycota,1.5396370582617003
+KarstCh2,color,Unclassified Capnodiales,0
+KarstCh2,color,Unclassified Chaetothyriales,0.09933142311365807
+KarstCh2,color,Unclassified Cordycipitaceae,0.19102196752626552
+KarstCh2,color,Unclassified Eurotiales,0.0725883476599809
+KarstCh2,color,Unclassified Helotiales,0.08787010506208215
+KarstCh2,color,Unclassified Hypocreales,0.8061127029608406
+KarstCh2,color,Unclassified Hysteriaceae,0
+KarstCh2,color,Unclassified Inocybaceae,0.12607449856733524
+KarstCh2,color,Unclassified Leotiomycetes,0.12607449856733524
+KarstCh2,color,Unclassified Microascaceae,0
+KarstCh2,color,Unclassified Mortierellaceae,0.37058261700095513
+KarstCh2,color,Unclassified Nectriaceae,1.5090735434574976
+KarstCh2,color,Unclassified Phanerochaetaceae,0
+KarstCh2,color,Unclassified Pleosporales,0.015281757402101241
+KarstCh2,color,Unclassified Russulaceae,0
+KarstCh2,color,Unclassified Saccharomycetales,1.1537726838586437
+KarstCh2,color,Unclassified Sordariomycetes,0.19866284622731614
+KarstCh2,color,Unclassified Teloschistaceae,0.2177650429799427
+KarstCh2,color,Unclassified Xylariaceae,0.16427889207258833
+KarstCh3,color,< 1%,26.87012391005048
+KarstCh3,color,Acremonium,0.18357044515832951
+KarstCh3,color,Arthrocladium,0.04589261128958238
+KarstCh3,color,Aspergillus,0.2983019733822854
+KarstCh3,color,Beauveria,0.09178522257916476
+KarstCh3,color,Bjerkandera,0
+KarstCh3,color,Boothiomyces,0
+KarstCh3,color,Cadophora,0.5048187241854061
+KarstCh3,color,Cerrena,0
+KarstCh3,color,Chaetomium,1.2391005048187242
+KarstCh3,color,Cladosporium,10.853602569986233
+KarstCh3,color,Clavaria,0.18357044515832951
+KarstCh3,color,Clavulina,5.920146856356126
+KarstCh3,color,Conlarium,0.16062413951353832
+KarstCh3,color,Cylindrium,1.1243689765947684
+KarstCh3,color,Delicatula,1.101422670949977
+KarstCh3,color,Funalia,0
+KarstCh3,color,Fusarium,1.3079394217530977
+KarstCh3,color,Hygrocybe,0.2065167508031207
+KarstCh3,color,Inocybe,2.2716842588343273
+KarstCh3,color,Lactifluus,0
+KarstCh3,color,Lentinus,0
+KarstCh3,color,Leotia,1.2391005048187242
+KarstCh3,color,Malbranchea,0.04589261128958238
+KarstCh3,color,Metarhizium,0.9637448370812299
+KarstCh3,color,Mortierella,3.763194125745755
+KarstCh3,color,Mycena,1.0325837540156035
+KarstCh3,color,Nigrospora,0
+KarstCh3,color,Penicillium,0.27535566773749426
+KarstCh3,color,Plectosphaerella,8.581918311151906
+KarstCh3,color,Polyscytalum,1.0325837540156035
+KarstCh3,color,Pseudoveronaea,0.06883891693437356
+KarstCh3,color,Russula,3.396053235429096
+KarstCh3,color,Sarcinomyces,0
+KarstCh3,color,Sebacina,0
+KarstCh3,color,Seychellomyces,0.9407985314364388
+KarstCh3,color,Sphaceloma,0
+KarstCh3,color,Sphaerosporella,0
+KarstCh3,color,Trechispora,0
+KarstCh3,color,Trichoderma,0
+KarstCh3,color,Trichoglossum,0.09178522257916476
+KarstCh3,color,Tuber,0.8260670032124828
+KarstCh3,color,Unclassified Agaricaceae,1.583295089490592
+KarstCh3,color,Unclassified Agaricales,0.8949059201468563
+KarstCh3,color,Unclassified Agaricomycetes,0.7342817806333181
+KarstCh3,color,Unclassified Ascomycota,1.5603487838458008
+KarstCh3,color,Unclassified Basidiomycota,2.822395594309316
+KarstCh3,color,Unclassified Capnodiales,0.2524093620927031
+KarstCh3,color,Unclassified Chaetothyriales,0.11473152822395595
+KarstCh3,color,Unclassified Cordycipitaceae,6.5396971087654885
+KarstCh3,color,Unclassified Eurotiales,0.04589261128958238
+KarstCh3,color,Unclassified Helotiales,1.1702615878843505
+KarstCh3,color,Unclassified Hypocreales,0.8949059201468563
+KarstCh3,color,Unclassified Hysteriaceae,0
+KarstCh3,color,Unclassified Inocybaceae,1.4226709499770536
+KarstCh3,color,Unclassified Leotiomycetes,0.2524093620927031
+KarstCh3,color,Unclassified Microascaceae,0
+KarstCh3,color,Unclassified Mortierellaceae,1.0325837540156035
+KarstCh3,color,Unclassified Nectriaceae,2.9141808168884813
+KarstCh3,color,Unclassified Phanerochaetaceae,0
+KarstCh3,color,Unclassified Pleosporales,0.11473152822395595
+KarstCh3,color,Unclassified Russulaceae,0.9866911427260211
+KarstCh3,color,Unclassified Saccharomycetales,0
+KarstCh3,color,Unclassified Sordariomycetes,1.216154199173933
+KarstCh3,color,Unclassified Teloschistaceae,0
+KarstCh3,color,Unclassified Xylariaceae,0.8260670032124828
+KarstCh4,color,< 1%,24.776699029126213
+KarstCh4,color,Acremonium,0.31067961165048547
+KarstCh4,color,Arthrocladium,0
+KarstCh4,color,Aspergillus,0.15533980582524273
+KarstCh4,color,Beauveria,0.1941747572815534
+KarstCh4,color,Bjerkandera,0
+KarstCh4,color,Boothiomyces,0.1941747572815534
+KarstCh4,color,Cadophora,0.5436893203883495
+KarstCh4,color,Cerrena,0
+KarstCh4,color,Chaetomium,2.0194174757281553
+KarstCh4,color,Cladosporium,13.203883495145632
+KarstCh4,color,Clavaria,0.15533980582524273
+KarstCh4,color,Clavulina,3.3398058252427183
+KarstCh4,color,Conlarium,1.2427184466019419
+KarstCh4,color,Cylindrium,1.2427184466019419
+KarstCh4,color,Delicatula,0
+KarstCh4,color,Funalia,1.087378640776699
+KarstCh4,color,Fusarium,1.825242718446602
+KarstCh4,color,Hygrocybe,0.1941747572815534
+KarstCh4,color,Inocybe,2.2135922330097086
+KarstCh4,color,Lactifluus,0
+KarstCh4,color,Lentinus,0
+KarstCh4,color,Leotia,0.8155339805825242
+KarstCh4,color,Malbranchea,0
+KarstCh4,color,Metarhizium,0.7378640776699029
+KarstCh4,color,Mortierella,4.970873786407767
+KarstCh4,color,Mycena,0
+KarstCh4,color,Nigrospora,0
+KarstCh4,color,Penicillium,1.1262135922330097
+KarstCh4,color,Plectosphaerella,5.864077669902913
+KarstCh4,color,Polyscytalum,0.8932038834951457
+KarstCh4,color,Pseudoveronaea,0.31067961165048547
+KarstCh4,color,Russula,2.6796116504854366
+KarstCh4,color,Sarcinomyces,0
+KarstCh4,color,Sebacina,0
+KarstCh4,color,Seychellomyces,0.1941747572815534
+KarstCh4,color,Sphaceloma,1.5533980582524272
+KarstCh4,color,Sphaerosporella,1.9029126213592233
+KarstCh4,color,Trechispora,0.6990291262135923
+KarstCh4,color,Trichoderma,0.23300970873786409
+KarstCh4,color,Trichoglossum,0
+KarstCh4,color,Tuber,0.6990291262135923
+KarstCh4,color,Unclassified Agaricaceae,0
+KarstCh4,color,Unclassified Agaricales,0.1941747572815534
+KarstCh4,color,Unclassified Agaricomycetes,1.941747572815534
+KarstCh4,color,Unclassified Ascomycota,0.8155339805825244
+KarstCh4,color,Unclassified Basidiomycota,2.951456310679612
+KarstCh4,color,Unclassified Capnodiales,1.5145631067961165
+KarstCh4,color,Unclassified Chaetothyriales,0
+KarstCh4,color,Unclassified Cordycipitaceae,0
+KarstCh4,color,Unclassified Eurotiales,0
+KarstCh4,color,Unclassified Helotiales,0.34951456310679613
+KarstCh4,color,Unclassified Hypocreales,0.5048543689320388
+KarstCh4,color,Unclassified Hysteriaceae,1.3592233009708738
+KarstCh4,color,Unclassified Inocybaceae,1.4368932038834952
+KarstCh4,color,Unclassified Leotiomycetes,0.07766990291262137
+KarstCh4,color,Unclassified Microascaceae,0
+KarstCh4,color,Unclassified Mortierellaceae,4.815533980582525
+KarstCh4,color,Unclassified Nectriaceae,5.786407766990291
+KarstCh4,color,Unclassified Phanerochaetaceae,0
+KarstCh4,color,Unclassified Pleosporales,0.6990291262135923
+KarstCh4,color,Unclassified Russulaceae,0
+KarstCh4,color,Unclassified Saccharomycetales,0
+KarstCh4,color,Unclassified Sordariomycetes,1.203883495145631
+KarstCh4,color,Unclassified Teloschistaceae,0
+KarstCh4,color,Unclassified Xylariaceae,0.9708737864077669
+KarstCh5,color,< 1%,3.090645556918274
+KarstCh5,color,Acremonium,59.00992306834653
+KarstCh5,color,Arthrocladium,3.032668078938566
+KarstCh5,color,Aspergillus,0.2163005909242948
+KarstCh5,color,Beauveria,5.4565726390902
+KarstCh5,color,Bjerkandera,0
+KarstCh5,color,Boothiomyces,0
+KarstCh5,color,Cadophora,0.031218641989073474
+KarstCh5,color,Cerrena,0
+KarstCh5,color,Chaetomium,0.13825398595161112
+KarstCh5,color,Cladosporium,1.1885382985840116
+KarstCh5,color,Clavaria,0.060207380978927416
+KarstCh5,color,Clavulina,0.14940350094770877
+KarstCh5,color,Conlarium,0
+KarstCh5,color,Cylindrium,0
+KarstCh5,color,Delicatula,0.004459805998439068
+KarstCh5,color,Funalia,0
+KarstCh5,color,Fusarium,15.323893410636638
+KarstCh5,color,Hygrocybe,0.06912699297580555
+KarstCh5,color,Inocybe,0
+KarstCh5,color,Lactifluus,0.07581670197346416
+KarstCh5,color,Lentinus,0
+KarstCh5,color,Leotia,0
+KarstCh5,color,Malbranchea,0.02229902999219534
+KarstCh5,color,Metarhizium,0.12041476195785485
+KarstCh5,color,Mortierella,0.7269483777455681
+KarstCh5,color,Mycena,0
+KarstCh5,color,Nigrospora,0.015609320994536737
+KarstCh5,color,Penicillium,0.27873787490244173
+KarstCh5,color,Plectosphaerella,0.10926524696175716
+KarstCh5,color,Polyscytalum,0
+KarstCh5,color,Pseudoveronaea,0
+KarstCh5,color,Russula,0
+KarstCh5,color,Sarcinomyces,0
+KarstCh5,color,Sebacina,0.08696621696956182
+KarstCh5,color,Seychellomyces,0
+KarstCh5,color,Sphaceloma,0
+KarstCh5,color,Sphaerosporella,0.5195673988181514
+KarstCh5,color,Trechispora,0.03790835098673208
+KarstCh5,color,Trichoderma,0.05351767198126881
+KarstCh5,color,Trichoglossum,0.12041476195785485
+KarstCh5,color,Tuber,0.022299029992195338
+KarstCh5,color,Unclassified Agaricaceae,0
+KarstCh5,color,Unclassified Agaricales,0.1181848589586353
+KarstCh5,color,Unclassified Agaricomycetes,0.03790835098673208
+KarstCh5,color,Unclassified Ascomycota,0.08919611996878136
+KarstCh5,color,Unclassified Basidiomycota,0.1449436949492697
+KarstCh5,color,Unclassified Capnodiales,0
+KarstCh5,color,Unclassified Chaetothyriales,0.06243728397814695
+KarstCh5,color,Unclassified Cordycipitaceae,0.28765748689931986
+KarstCh5,color,Unclassified Eurotiales,6.3686029657709895
+KarstCh5,color,Unclassified Helotiales,0
+KarstCh5,color,Unclassified Hypocreales,0.17393243393912367
+KarstCh5,color,Unclassified Hysteriaceae,0
+KarstCh5,color,Unclassified Inocybaceae,0.01114951499609767
+KarstCh5,color,Unclassified Leotiomycetes,0.057977477979707884
+KarstCh5,color,Unclassified Microascaceae,1.219756940573085
+KarstCh5,color,Unclassified Mortierellaceae,0
+KarstCh5,color,Unclassified Nectriaceae,0.06243728397814695
+KarstCh5,color,Unclassified Phanerochaetaceae,0
+KarstCh5,color,Unclassified Pleosporales,0.02675883599063441
+KarstCh5,color,Unclassified Russulaceae,0.01114951499609767
+KarstCh5,color,Unclassified Saccharomycetales,0
+KarstCh5,color,Unclassified Sordariomycetes,1.2978035455457688
+KarstCh5,color,Unclassified Teloschistaceae,0.06912699297580555
+KarstCh5,color,Unclassified Xylariaceae,0
+KarstCh6,white,< 1%,27.21571906354515
+KarstCh6,white,Acremonium,3.34448160535117
+KarstCh6,white,Arthrocladium,0
+KarstCh6,white,Aspergillus,0.2926421404682274
+KarstCh6,white,Beauveria,0
+KarstCh6,white,Bjerkandera,0.1254180602006689
+KarstCh6,white,Boothiomyces,1.839464882943144
+KarstCh6,white,Cadophora,1.2541806020066888
+KarstCh6,white,Cerrena,2.4665551839464883
+KarstCh6,white,Chaetomium,1.3377926421404682
+KarstCh6,white,Cladosporium,4.682274247491639
+KarstCh6,white,Clavaria,1.0451505016722409
+KarstCh6,white,Clavulina,2.4247491638795986
+KarstCh6,white,Conlarium,0
+KarstCh6,white,Cylindrium,0
+KarstCh6,white,Delicatula,0
+KarstCh6,white,Funalia,0
+KarstCh6,white,Fusarium,1.8812709030100336
+KarstCh6,white,Hygrocybe,0.919732441471572
+KarstCh6,white,Inocybe,0.37625418060200666
+KarstCh6,white,Lactifluus,1.3377926421404682
+KarstCh6,white,Lentinus,1.7976588628762542
+KarstCh6,white,Leotia,0.08361204013377926
+KarstCh6,white,Malbranchea,0
+KarstCh6,white,Metarhizium,2.801003344481605
+KarstCh6,white,Mortierella,3.511705685618729
+KarstCh6,white,Mycena,0.1254180602006689
+KarstCh6,white,Nigrospora,1.1705685618729096
+KarstCh6,white,Penicillium,1.0451505016722407
+KarstCh6,white,Plectosphaerella,12.58361204013378
+KarstCh6,white,Polyscytalum,0
+KarstCh6,white,Pseudoveronaea,0
+KarstCh6,white,Russula,0
+KarstCh6,white,Sarcinomyces,0
+KarstCh6,white,Sebacina,1.839464882943144
+KarstCh6,white,Seychellomyces,0.1254180602006689
+KarstCh6,white,Sphaceloma,0
+KarstCh6,white,Sphaerosporella,0
+KarstCh6,white,Trechispora,0.794314381270903
+KarstCh6,white,Trichoderma,3.2608695652173916
+KarstCh6,white,Trichoglossum,2.2993311036789295
+KarstCh6,white,Tuber,0.4180602006688963
+KarstCh6,white,Unclassified Agaricaceae,0
+KarstCh6,white,Unclassified Agaricales,0.8361204013377926
+KarstCh6,white,Unclassified Agaricomycetes,3.5535117056856187
+KarstCh6,white,Unclassified Ascomycota,1.4214046822742474
+KarstCh6,white,Unclassified Basidiomycota,3.260869565217391
+KarstCh6,white,Unclassified Capnodiales,0
+KarstCh6,white,Unclassified Chaetothyriales,0.5016722408026756
+KarstCh6,white,Unclassified Cordycipitaceae,0
+KarstCh6,white,Unclassified Eurotiales,0
+KarstCh6,white,Unclassified Helotiales,0.16722408026755853
+KarstCh6,white,Unclassified Hypocreales,0.459866220735786
+KarstCh6,white,Unclassified Hysteriaceae,0
+KarstCh6,white,Unclassified Inocybaceae,0
+KarstCh6,white,Unclassified Leotiomycetes,1.3795986622073577
+KarstCh6,white,Unclassified Microascaceae,0
+KarstCh6,white,Unclassified Mortierellaceae,0.6688963210702341
+KarstCh6,white,Unclassified Nectriaceae,0.5434782608695652
+KarstCh6,white,Unclassified Phanerochaetaceae,1.4214046822742474
+KarstCh6,white,Unclassified Pleosporales,1.5886287625418059
+KarstCh6,white,Unclassified Russulaceae,0
+KarstCh6,white,Unclassified Saccharomycetales,0
+KarstCh6,white,Unclassified Sordariomycetes,0
+KarstCh6,white,Unclassified Teloschistaceae,1.797658862876254
+KarstCh6,white,Unclassified Xylariaceae,0
+KarstCh7,white,< 1%,30.449533502968617
+KarstCh7,white,Acremonium,2.247667514843087
+KarstCh7,white,Arthrocladium,0
+KarstCh7,white,Aspergillus,0
+KarstCh7,white,Beauveria,0.1272264631043257
+KarstCh7,white,Bjerkandera,1.4843087362171332
+KarstCh7,white,Boothiomyces,0
+KarstCh7,white,Cadophora,0.9329940627650551
+KarstCh7,white,Cerrena,0
+KarstCh7,white,Chaetomium,1.5267175572519083
+KarstCh7,white,Cladosporium,4.6225614927905
+KarstCh7,white,Clavaria,1.1874469889737065
+KarstCh7,white,Clavulina,5.597964376590331
+KarstCh7,white,Conlarium,0
+KarstCh7,white,Cylindrium,0
+KarstCh7,white,Delicatula,0
+KarstCh7,white,Funalia,0
+KarstCh7,white,Fusarium,1.9508057675996606
+KarstCh7,white,Hygrocybe,1.9508057675996608
+KarstCh7,white,Inocybe,0.33927056827820185
+KarstCh7,white,Lactifluus,2.1628498727735366
+KarstCh7,white,Lentinus,0
+KarstCh7,white,Leotia,1.2298558100084818
+KarstCh7,white,Malbranchea,0
+KarstCh7,white,Metarhizium,3.7743850720949954
+KarstCh7,white,Mortierella,5.046649703138253
+KarstCh7,white,Mycena,0.16963528413910092
+KarstCh7,white,Nigrospora,0.08481764206955046
+KarstCh7,white,Penicillium,1.484308736217133
+KarstCh7,white,Plectosphaerella,2.629346904156064
+KarstCh7,white,Polyscytalum,0
+KarstCh7,white,Pseudoveronaea,1.9083969465648856
+KarstCh7,white,Russula,0.6785411365564037
+KarstCh7,white,Sarcinomyces,0.21204410517387615
+KarstCh7,white,Sebacina,2.247667514843087
+KarstCh7,white,Seychellomyces,1.4843087362171332
+KarstCh7,white,Sphaceloma,0
+KarstCh7,white,Sphaerosporella,0.21204410517387615
+KarstCh7,white,Trechispora,0.8905852417302799
+KarstCh7,white,Trichoderma,0.6785411365564037
+KarstCh7,white,Trichoglossum,2.883799830364716
+KarstCh7,white,Tuber,1.484308736217133
+KarstCh7,white,Unclassified Agaricaceae,0
+KarstCh7,white,Unclassified Agaricales,0.6785411365564037
+KarstCh7,white,Unclassified Agaricomycetes,0.5089058524173028
+KarstCh7,white,Unclassified Ascomycota,0.6361323155216285
+KarstCh7,white,Unclassified Basidiomycota,3.2654792196776925
+KarstCh7,white,Unclassified Capnodiales,0
+KarstCh7,white,Unclassified Chaetothyriales,0.4240882103477523
+KarstCh7,white,Unclassified Cordycipitaceae,0
+KarstCh7,white,Unclassified Eurotiales,0
+KarstCh7,white,Unclassified Helotiales,0.33927056827820185
+KarstCh7,white,Unclassified Hypocreales,0.4664970313825275
+KarstCh7,white,Unclassified Hysteriaceae,0
+KarstCh7,white,Unclassified Inocybaceae,1.102629346904156
+KarstCh7,white,Unclassified Leotiomycetes,0.8905852417302799
+KarstCh7,white,Unclassified Microascaceae,0
+KarstCh7,white,Unclassified Mortierellaceae,1.4843087362171332
+KarstCh7,white,Unclassified Nectriaceae,1.1874469889737065
+KarstCh7,white,Unclassified Phanerochaetaceae,0
+KarstCh7,white,Unclassified Pleosporales,2.5021204410517384
+KarstCh7,white,Unclassified Russulaceae,2.7989821882951653
+KarstCh7,white,Unclassified Saccharomycetales,0
+KarstCh7,white,Unclassified Sordariomycetes,0
+KarstCh7,white,Unclassified Teloschistaceae,2.035623409669211
+KarstCh7,white,Unclassified Xylariaceae,0
+KarstCh8,white,< 1%,28.351539225422044
+KarstCh8,white,Acremonium,0.5461767626613704
+KarstCh8,white,Arthrocladium,0
+KarstCh8,white,Aspergillus,0
+KarstCh8,white,Beauveria,0
+KarstCh8,white,Bjerkandera,0
+KarstCh8,white,Boothiomyces,0.14895729890764647
+KarstCh8,white,Cadophora,1.0923535253227408
+KarstCh8,white,Cerrena,0
+KarstCh8,white,Chaetomium,2.135054617676266
+KarstCh8,white,Cladosporium,5.114200595829196
+KarstCh8,white,Clavaria,1.2413108242303872
+KarstCh8,white,Clavulina,3.8728897715988087
+KarstCh8,white,Conlarium,0.39721946375372397
+KarstCh8,white,Cylindrium,0
+KarstCh8,white,Delicatula,0
+KarstCh8,white,Funalia,0
+KarstCh8,white,Fusarium,1.837140019860973
+KarstCh8,white,Hygrocybe,2.1847070506454815
+KarstCh8,white,Inocybe,0.6951340615690169
+KarstCh8,white,Lactifluus,1.0427010923535254
+KarstCh8,white,Lentinus,0
+KarstCh8,white,Leotia,0
+KarstCh8,white,Malbranchea,0
+KarstCh8,white,Metarhizium,3.922542204568024
+KarstCh8,white,Mortierella,6.007944389275075
+KarstCh8,white,Mycena,0.3475670307845084
+KarstCh8,white,Nigrospora,0.24826216484607747
+KarstCh8,white,Penicillium,0.5461767626613704
+KarstCh8,white,Plectosphaerella,7.696127110228401
+KarstCh8,white,Polyscytalum,0
+KarstCh8,white,Pseudoveronaea,0
+KarstCh8,white,Russula,0
+KarstCh8,white,Sarcinomyces,1.1420059582919562
+KarstCh8,white,Sebacina,1.3406156901688182
+KarstCh8,white,Seychellomyces,1.5888778550148956
+KarstCh8,white,Sphaceloma,0
+KarstCh8,white,Sphaerosporella,0
+KarstCh8,white,Trechispora,1.0923535253227408
+KarstCh8,white,Trichoderma,0.8440913604766633
+KarstCh8,white,Trichoglossum,2.9791459781529297
+KarstCh8,white,Tuber,0.6454816285998014
+KarstCh8,white,Unclassified Agaricaceae,0
+KarstCh8,white,Unclassified Agaricales,2.6812313803376364
+KarstCh8,white,Unclassified Agaricomycetes,1.8867924528301885
+KarstCh8,white,Unclassified Ascomycota,0.7944389275074478
+KarstCh8,white,Unclassified Basidiomycota,3.128103277060576
+KarstCh8,white,Unclassified Capnodiales,0
+KarstCh8,white,Unclassified Chaetothyriales,0.24826216484607747
+KarstCh8,white,Unclassified Cordycipitaceae,0
+KarstCh8,white,Unclassified Eurotiales,0
+KarstCh8,white,Unclassified Helotiales,0.34756703078450846
+KarstCh8,white,Unclassified Hypocreales,0.24826216484607747
+KarstCh8,white,Unclassified Hysteriaceae,0
+KarstCh8,white,Unclassified Inocybaceae,0
+KarstCh8,white,Unclassified Leotiomycetes,0
+KarstCh8,white,Unclassified Microascaceae,0
+KarstCh8,white,Unclassified Mortierellaceae,5.660377358490567
+KarstCh8,white,Unclassified Nectriaceae,5.6107249255213505
+KarstCh8,white,Unclassified Phanerochaetaceae,0
+KarstCh8,white,Unclassified Pleosporales,0.5958291956305859
+KarstCh8,white,Unclassified Russulaceae,0.14895729890764647
+KarstCh8,white,Unclassified Saccharomycetales,0
+KarstCh8,white,Unclassified Sordariomycetes,0.14895729890764647
+KarstCh8,white,Unclassified Teloschistaceae,1.4399205561072492
+KarstCh8,white,Unclassified Xylariaceae,0
